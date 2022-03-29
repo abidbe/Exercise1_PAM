@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/berkshire_swash</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/coming_soon</item>
+        <item>@font/covered_by_your_grace</item>
+        <item>@font/geostar</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

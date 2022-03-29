@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise1_PAM</string>
+    <string name="anama">   Masukkan Nama</string>
+    <string name="apass">Masukkan Password</string>
+    <string name="aemail">Masukkan Email</string>
+    <string name="arepass">Masukkan Re-Password</string>
+    <string name="abtnlgn">SIGN IN</string>
+    <string name="abtnrgs">SIGN UP</string>
+    <string name="atask">Masukkan Task</string>
+    <string name="ajtask">Masukkan Jenis Task</string>
+    <string name="attask">Masukkan Lama Task</string>
+</resources>
